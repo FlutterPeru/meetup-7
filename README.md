@@ -14,7 +14,9 @@ Slides  : -
 
 - **"Flutter con Socket.io" - Frank Moreno**
 
-Slides: -
+Slides: - https://docs.google.com/presentation/d/1dbpBkJlm-MFpKWdv6b6WG84JaejMC9al8vLSD0dEtHY/edit?fbclid=IwAR15TBM-pjAnBwWNN7Ovqbz5oCGZwN92hCrjZiw19M1XlmjXCwJSmzIoqOg#slide=id.g5b9a4bdf9e_0_358
+
+Repo: https://github.com/kranfix/flutter_socketio
 
 
 
