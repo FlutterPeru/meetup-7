@@ -2,7 +2,7 @@
 
 ## Charlas :
 
-- **"Adding Flutter to an existing Android/iOS app" - Enzo Lizama)**
+- **"Adding Flutter to an existing Android/iOS app" - Enzo Lizama**
 
 Slides : https://docs.google.com/presentation/d/1OPRMiarnL2vnE3ukqw3ew04zxx08JiEEjZMNPv2dK8I/edit?fbclid=IwAR0lNRSGLkZKYUfIkG92Dwhi--cDnydE7S5DvL2Z_AF-ih_F-2C3aMrd3GA#slide=id.g6eb039459a_0_0
 
