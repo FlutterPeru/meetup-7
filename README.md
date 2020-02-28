@@ -9,12 +9,14 @@ Slides : https://docs.google.com/presentation/d/1OPRMiarnL2vnE3ukqw3ew04zxx08JiE
 
 - **"Hablemos de Bloc" - Diego Salcedo**
 
-Slides  : -
+Slides: https://docs.google.com/presentation/d/11De_laWUy12Hz4-VCE1gJ8G0h-mUQFnCJ0Z3jtDCND0/edit?usp=sharing
+
+Repo: https://github.com/Diegitsen/clima-bloc
 
 
 - **"Flutter con Socket.io" - Frank Moreno**
 
-Slides: - https://docs.google.com/presentation/d/1dbpBkJlm-MFpKWdv6b6WG84JaejMC9al8vLSD0dEtHY/edit?fbclid=IwAR15TBM-pjAnBwWNN7Ovqbz5oCGZwN92hCrjZiw19M1XlmjXCwJSmzIoqOg#slide=id.g5b9a4bdf9e_0_358
+Slides: https://docs.google.com/presentation/d/1dbpBkJlm-MFpKWdv6b6WG84JaejMC9al8vLSD0dEtHY/edit?fbclid=IwAR15TBM-pjAnBwWNN7Ovqbz5oCGZwN92hCrjZiw19M1XlmjXCwJSmzIoqOg#slide=id.g5b9a4bdf9e_0_358
 
 Repo: https://github.com/kranfix/flutter_socketio
 
